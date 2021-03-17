@@ -12,8 +12,8 @@
 
   <artifactId>school</artifactId>
   <packaging>war</packaging>
-  <name>Webapp</name>
-  <description>school</description>
+  <name>school</name>
+  <description>school.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
